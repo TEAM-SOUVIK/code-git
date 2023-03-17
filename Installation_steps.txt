@@ -3,4 +3,3 @@
 3. Run this latest setup file and install.
 4. You will see the desktop icon " RG-Gaming Mouse "
 5. Enjoy customizing !!
-6. Exit
